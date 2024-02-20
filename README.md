@@ -1,3 +1,4 @@
+![logo](https://github.com/Pushpanjali2001chaurasiya/Pushpanjali2001chaurasiya/blob/main/pihu.gif)
 <h1 align="center">Hi 👋, I'm Pushpanjali Chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 💬 Ask me about **HTML,CSS, PHP, Python, MEAN**
+- 💬 Ask me about **HTML,CSS, PHP, Python,Django,Cloud Computing MEAN**
 
 - 📫 How to reach me **chaurasiyapushpanjali256@gmail.com**
 
